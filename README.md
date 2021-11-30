@@ -9,7 +9,3 @@ To use this repository with your own Hass.io installation please follow [the off
 ```txt
 https://github.com/sb76117/hassio-addons
 ```
-
-## Provided add-ons
-
-- [hassio-cloudflareipupdater](https://github.com/sb76117/hassio-cloudflareipupdater) Dynamic IP Updater for Cloudflare in hass.io
